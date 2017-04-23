@@ -1,0 +1,103 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+div#img {
+    position: absolute;
+    padding: 0;
+    left: 5%;
+    top: 15%;
+    height: 294px;
+    width: 425px;
+}
+div#img img{
+     height: 100%;
+}
+div#content {
+    position: absolute;
+    z-index: 2;
+    padding: 0;
+    left: 5%;
+    top: 15%;
+    height: 294px;
+    width: 425px;
+}
+body{
+    background-color: #E9DDC7;
+}
+#drag1{
+    left: 21%;
+    top: 80%;
+}
+#drag2{
+    left: 27%;
+    top: 85%;
+}
+#drag3{
+    left: 33%;
+    top: 83%;
+}
+#drag4{
+    left: 14%;
+    top: 88%;
+}
+#drag5{
+    left: 40%;
+    top: 76%;
+}
+#drag6{
+    left: 10%;
+    top: 81%;
+}
+#drag7{
+    left: 46%;
+    top: 73%;
+}
+#drag8{
+    left: 39%;
+    top: 61%;
+}
+#drag9{
+    left: 22%;
+    top: 90%;
+}
+#drag10{
+    left: 41%;
+    top: 69%;
+}
+.dr{
+    position: absolute;
+    display: inline-block;
+}
+#drop1{
+    height: 80px;
+    width: 80px;
+    left: 64%;
+    top: 69%;
+    background-color: rgba(85,20,206,0);
+}
+#drop2{
+    height: 70px;
+    width: 70px;
+    left: 23%;
+    top: 62%;
+    background-color: rgba(85,20,206,0);
+}
+#film{
+    left: 54%;
+    top: 15%;
+    height: 294px;
+    width: 425px;
+}
+div#film img{
+    height: 100%;
+}
+#vgadav, #vkorKurosava, #vkorKomisary, #vkorDiehard, #vkorZvynuvach, #vkorChapaev
+, #vkorAero, #vkorMich, #vkorZven, #vkorShors, #vkorArsenal, #vitaemo, #pomyrayu{
+    left: 75%;
+    top: 17%;
+}
+#zagol{
+    text-align: center;
+    margin-top: 4%;
+}
